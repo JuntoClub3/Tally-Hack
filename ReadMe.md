@@ -1,4 +1,4 @@
-![Tally CodeBrewers 2023](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
+![Tally CodeBrewers 2023]()
 
 <div align="center">
   &middot;
@@ -34,13 +34,14 @@ Here are the steps to run the project locally.
 
 3. Run the project
 
+1. Backend
    ```bash
    cd backend
    yarn install
    yarn start
    ```
 
-
+2. Frontend
    ```bash
    cd frontend
    yarn install
@@ -48,6 +49,6 @@ Here are the steps to run the project locally.
    ```
 
 ## Team - JuntoClub💻
-1.Abhijeet Dhane
-2.Sanket Zambare
-3.Shivang Gupta
+1. Abhijeet Dhane
+2. Sanket Zambare
+3. Shivang Gupta
