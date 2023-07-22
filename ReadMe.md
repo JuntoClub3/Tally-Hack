@@ -1,12 +1,6 @@
 ![Tally CodeBrewers 2023]()
 
-<div align="center">
-  &middot;
-  <i>Lightening words built in Next.js + TypeScript + Tailwind CSS + NodeJs + ExpressJs</i>
-  &middot;
-  <br/>
-  <br/>
-</div>
+
 
 ## Introduction 👋
 
