@@ -12,7 +12,7 @@ https://github.com/JuntoClub3/Tally-Hack/assets/140198163/47fbf5bd-d82f-45dd-9a4
 
 ## Introduction 👋
 
-Lightening words is built using Next.js , NodeJs , ExpressJs and Tailwind CSS for a modern design and rapid development. TypeScript is utilized for code clarity and safety. Socket.io is used for multiplayer feature
+Lightening words is built using Next.js , NodeJs , ExpressJs and Tailwind CSS for a modern design and rapid development. TypeScript is utilized for code clarity and safety. Socket.io is used for multiplayer feature.
 
 ## Tech Stack 🛠️
 
