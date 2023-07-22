@@ -1,10 +1,10 @@
-![Tally CodeBrewers 2023]()
+![Tally CodeBrewers 2023](https://github.com/JuntoClub3/Tally-Hack/assets/140198163/f8d28881-c1b0-47c4-bf7a-3238980872be)
 
 
 
 ## Introduction 👋
 
-Lightening words is built using Next.js , NodeJs , ExpressJs and Tailwind CSS for a modern design and rapid development. TypeScript is utilized for code clarity and safety. Additionally, Firebase is being integrated for backend services such as realtime-database. The result is a dynamic and functional portfolio website that showcases the developer's skills and experience.
+Lightening words is built using Next.js , NodeJs , ExpressJs and Tailwind CSS for a modern design and rapid development. TypeScript is utilized for code clarity and safety. Socket.io is used for multiplayer feature
 
 ## Tech Stack 🛠️
 
