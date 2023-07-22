@@ -36,14 +36,14 @@ Here are the steps to run the project locally.
 
 3. Run the project
 
-1. Backend
+Backend
    ```bash
    cd backend
    yarn install
    yarn start
    ```
 
-2. Frontend
+Frontend
    ```bash
    cd frontend
    yarn install
