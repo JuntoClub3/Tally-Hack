@@ -1,7 +1,11 @@
 
 
 
-https://github.com/JuntoClub3/Tally-Hack/assets/140198163/f8d28881-c1b0-47c4-bf7a-3238980872be
+
+
+https://github.com/JuntoClub3/Tally-Hack/assets/140198163/47fbf5bd-d82f-45dd-9a42-905aa4f0e343
+
+
 
 
 
