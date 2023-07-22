@@ -54,3 +54,5 @@ Frontend
 1. Abhijeet Dhane
 2. Sanket Zambare
 3. Shivang Gupta
+   
+![FlowChart](https://github.com/JuntoClub3/Tally-Hack/assets/140198163/92cf6d93-c6aa-4f2e-af82-7a4ee4326727)
